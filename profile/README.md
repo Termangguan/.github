@@ -4,9 +4,9 @@ Tubi TV was once a favorite among free streamers, offering a vast library of glo
 
 | **Site**            | **Country**   | **Status** | **Access Type** |
 | ------------------- | ------------- | ---------- | --------------- |
-| [345MOVIES.COM](https://theraflix.fun)    | United States | Alive ✅    | 100% FREE       |
-| [123MOVIESGOHD.top](https://theraflix.fun) | United States | Alive ✅    | 100% FREE       |
-| [FMOVIEStop.COM](https://theraflix.fun)    | United States | Alive ✅    | 100% FREE       |
+| [345MOVIES.COM](https://123watchnow.com/)    | United States | Alive ✅    | 100% FREE       |
+| [123MOVIESGOHD.top](https://123watchnow.com/) | United States | Alive ✅    | 100% FREE       |
+| [FMOVIEStop.COM](https://123watchnow.com/)    | United States | Alive ✅    | 100% FREE       |
 
 Why Users Are Leaving Tubi TV
 Once known for its smooth and ad-light experience, Tubi TV began facing:
